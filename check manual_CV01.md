@@ -1,49 +1,7 @@
-<style type="text/css">
-h1 {
-    padding-bottom: 0em;
-    padding-left: 0.5em;
-    line-height: 1.2;
-    border-bottom: solid 2px lightblue !important;
-    border-left: solid 30px lightblue !important;
-}
-
-h2 {
-    padding-bottom: 0em;
-    padding-left: 0.5em;
-    border-left: solid 20px darkcyan !important;
-    border-bottom: solid 2px darkcyan !important;
-}
-
-h3 {
-    padding-bottom: 0em;
-    padding-left: 0.5em;
-    border-left: solid 10px greenyellow !important;
-    border-bottom: solid 1px greenyellow !important;
-}
-
-div.notewern {
-    padding: 5px;
-    background-color: #D0FFFF !important;
-    border-left: solid 3px lightcyan !important;
-    font-weight: bold !important; 
-    border-radius: 5px !important;
-}
-
-div.noteinfo {
-    padding: 5px;
-    background-color: #D0FFD0 !important;
-    border-left: solid 3px lightgreen !important;
-    border-radius: 5px !important;
-}
-
-pre.shell {
-    padding: 5px;
-    background-color: #000000 !important;
-    border-left: solid 3px lightgray !important;
-    color: #F0F0F0 !important;
-    border-radius: 5px !important;
-}
-</style>
+---
+layout: default
+title: 2024情報科学実験B 実験1 チェック確認
+---
 
 # 2024情報科学実験B 実験1 チェック確認
 
